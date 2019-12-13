@@ -1,3 +1,3 @@
 # essay-website
 
-[Essay] (https://georgiagallagher.github.io/essay-website/jeesicahishe.html)
+[Essay] (https://georgiagallagher.github.io/essay-website/jessicahishe.html)
