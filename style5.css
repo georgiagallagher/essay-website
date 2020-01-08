@@ -158,6 +158,14 @@ nav a:hover {
   margin-right: 0em;
 }
 
+.caption {
+  display: block;
+  margin: 1em auto;
+  padding: 1em;
+  max-width: 100%;
+  font-size: 12px;
+  text-align: center;
+}
 
 /*--------------FOOTER-------------*/
 footer{
