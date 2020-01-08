@@ -85,7 +85,8 @@ img {
 {
   display: block;
 margin: 3em auto;
-padding: 0;
+padding-top:-0.5em;
+padding-bottom: 1em;
 max-width: 50%;
 }
 
@@ -150,7 +151,12 @@ nav a:hover {
         margin-left: 0em;
         margin-right: 0em;
     }
-
+.button
+{
+  display:block;
+  margin-left: 15.5em;
+  margin-right: 0em;
+}
 
 
 /*--------------FOOTER-------------*/
@@ -159,7 +165,7 @@ footer{
   font-size: 0.707em;
   padding: 2em 1 6em 0;
   max-width: 100%;
-  box-shadow: 0 50vh 0 50vh #8F0040;
+  box-shadow: 0 50vh 0 50vh #FF814B;
   color: #FF814B;
 }
 page-footer a {
@@ -177,7 +183,7 @@ page-footer a {
 
 .connections li {
 	margin: 0 15px;
-	padding: 0;
+	padding: 1em 0 6em 0;
 	list-style: none;
 	display: inline-block;
   align: center;
@@ -191,7 +197,7 @@ page-footer a {
 .connections img {
 	opacity: 0.5;
     border: none;
-  
+
 	}
 
  .connections a:hover img {
